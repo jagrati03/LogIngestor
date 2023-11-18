@@ -1,0 +1,20 @@
+{
+  "name": "customlogger",
+  "version": "1.0.0",
+  "description": "Log Ingestor and Query Interface",
+  "main": "LogInjestor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node LogInjestor.js",
+    "devStart": "npx nodemon LogInjestor.js"
+  },
+  "author": "Ranjan Binwani",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^16.7.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
