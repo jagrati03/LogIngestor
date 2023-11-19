@@ -203,3 +203,4 @@ http://localhost:9200/logs/_search?pretty
 https://stackoverflow.com/questions/14565888/how-can-i-view-the-contents-of-an-elasticsearch-index
 "# LogIngestor" 
 "# LogIngestor" 
+"# LogIngestor" 
