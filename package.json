@@ -8,7 +8,7 @@
     "start": "node LogInjestor.js",
     "devStart": "npx nodemon LogInjestor.js"
   },
-  "author": "Ranjan Binwani",
+  "author": "Jagrati Binwani",
   "license": "ISC",
   "dependencies": {
     "elasticsearch": "^16.7.3",
