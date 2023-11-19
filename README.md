@@ -201,11 +201,3 @@ This is a basic setup for development purposes. In a production environment, we 
 Entry point to see all the data that got inserted into elastic search: (`logs` here represents the index_name in this case.)
 http://localhost:9200/logs/_search?pretty
 https://stackoverflow.com/questions/14565888/how-can-i-view-the-contents-of-an-elasticsearch-index
-"# LogIngestor" 
-"# LogIngestor" 
-"# LogIngestor" 
-"# LogIngestor" 
-"# LogIngestor" 
-"# LogIngestor" 
-"# LogIngestor" 
-"# LogIngestor" 
